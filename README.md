@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm aldi from Indonesia<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 I'm currently learning at IT DEL</p>
+<p align="left">I'm aldi from Indonesia<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 I'm currently learning at Universitas Sumatera Utara</p>
 
 ###
 
